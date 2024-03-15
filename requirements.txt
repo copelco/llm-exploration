@@ -1,2 +1,12 @@
+beautifulsoup4
+ipywidgets
 jupyterlab
 llm
+notebook
+pandas
+pgvector
+psycopg
+sqlalchemy
+strip-tags
+tiktoken
+ttok
