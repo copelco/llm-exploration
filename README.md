@@ -4,7 +4,7 @@ My large language model (LLM) learning and exploration notebooks.
 
 ## Setup
 
-Sample shell environment:
+Sample `.envrc` shell environment:
 
 ```sh
 layout python python3.11
