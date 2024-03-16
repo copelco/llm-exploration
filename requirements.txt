@@ -6,6 +6,7 @@ notebook
 pandas
 pgvector
 psycopg
+redis
 sqlalchemy
 strip-tags
 tiktoken
